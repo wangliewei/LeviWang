@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--->
+
 
 - 🔭 I’m currently working on Beijing University of Posts and Telecommunications.
 - 🌱 I’m currently learning java/Algorithm/Data Structure.
@@ -16,7 +16,15 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wangliewei&show_icons=true&include_all_commits=true&theme=material-palenight" alt="wangliewie's github stats" />
 </a>
 
+-->
 
+### 🏆 Github Status
+
+<!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wangliewei&show_icons=true" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangliewei&layout=compact" alt="languages" height="175">
+</p>
 
 
 
